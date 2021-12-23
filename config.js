@@ -1,5 +1,5 @@
 module.exports = {
-  token: "",
+  token: "ODU5MTY0NjE3NTc3MDcwNTky.YNotZw.bVnmJFsxwl7vSA5BI1ArzZg-mVo",
   prefix: '!',
   developers: [ "451474544255959071" ],
   mongourl: "mongodb+srv://Test1:Test1@cluster0.ubo0e.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
